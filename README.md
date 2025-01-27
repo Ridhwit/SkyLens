@@ -3,6 +3,12 @@
 Sky Lens is an interactive and user-friendly weather application that provides real-time weather updates and forecasts for any city in the world. Built with Flutter, it ensures a seamless experience while delivering accurate weather information.
 
 ---
+## 📸 Demo
+
+![WhatsApp Image 2025-01-27 at 19 48 39_3b919d08](https://github.com/user-attachments/assets/6c47f86c-2295-4400-b0ec-5f6876b3aea2)
+
+
+---
 
 ## ✨ Features
 
