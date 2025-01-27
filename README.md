@@ -5,7 +5,9 @@ Sky Lens is an interactive and user-friendly weather application that provides r
 ---
 ## 📸 Demo
 
-![WhatsApp Image 2025-01-27 at 19 48 39_3b919d08](https://github.com/user-attachments/assets/6c47f86c-2295-4400-b0ec-5f6876b3aea2)
+![WhatsApp Image 2025-01-28 at 00 17 46_24a9319a](https://github.com/user-attachments/assets/542f4cd5-9707-49ae-a16a-ecf64a8bb18c)  ![WhatsApp Image 2025-01-28 at 00 17 46_98425167](https://github.com/user-attachments/assets/ae8e6874-92e0-4a3e-aa6a-600b137c6004)
+
+
 
 
 ---
