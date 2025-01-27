@@ -38,6 +38,19 @@ Sky Lens is an interactive and user-friendly weather application that provides r
 
 ---
 
+## 🎯 Business Objective
+
+Sky Lens aims to revolutionize the way people interact with weather information by offering real-time, accurate weather updates for any city globally. The business objective of this project is to provide a reliable and user-friendly platform that enhances the daily experience of users through its interactive features. By leveraging cutting-edge technologies like Flutter and real-time weather data from OpenWeatherMap, Sky Lens intends to deliver high-quality, up-to-date forecasts in a seamless manner.
+
+Key business objectives include:
+- **Enhancing user engagement**: Providing an interactive UI that encourages users to frequently check the weather, increasing daily app usage.
+- **Monetization through targeted advertising**: Partnering with local businesses for context-aware advertisements based on weather conditions, such as promoting rain gear during storms.
+- **Expansion into premium features**: Offering advanced features such as in-depth forecasts, personalized weather predictions, and weather alerts to drive subscription-based revenue.
+- **Long-term growth**: Establishing Sky Lens as a go-to weather service platform that not only serves users' immediate needs but also anticipates future trends like AI-based personalized predictions and seamless geolocation support.
+
+Through these objectives, Sky Lens aims to create a sustainable and scalable platform that adapts to users’ needs while generating business value.
+
+---
 ## 🚀 Improvements That Can Be Made
 
 - **Time Zone Fix**: Ensure that the time displayed for weather updates is synchronized with the time zone of the city being searched.
