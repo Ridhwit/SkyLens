@@ -34,7 +34,6 @@ Sky Lens is an interactive and user-friendly weather application that provides r
 - **Flutter**: For building the interactive and cross-platform mobile app.
 - **OpenWeatherMap API**: For fetching real-time weather data.
 - **HTTP Package**: For API requests.
-- **Intl Package**: For formatting date and time.
 
 ---
 
